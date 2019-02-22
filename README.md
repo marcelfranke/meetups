@@ -1,4 +1,4 @@
-![alt text](https://seeklogo.net/wp-content/uploads/2017/01/meetup-logo-400x400.png)
+![alt text](https://voicebot.ai/wp-content/uploads/2017/05/copy-of-meetup-logo-script-1-300x300.png)
 
 # Meetups
 
