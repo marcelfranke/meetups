@@ -1,4 +1,4 @@
-![alt text](https://voicebot.ai/wp-content/uploads/2017/05/copy-of-meetup-logo-script-1-300x300.png)
+![alt text](https://github.com/marcelfranke/meetups/blob/master/meetup_logo.png)
 
 # Meetups
 
